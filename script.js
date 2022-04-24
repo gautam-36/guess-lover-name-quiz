@@ -44,7 +44,14 @@ const quizData = [
         d: 'Akshra Kaushik',
         correct: 'd'
     },
-
+ {
+        question: 'Parveen loves',
+        a: 'Nishu khan',
+        b: 'Krishna Yadav',
+        c: 'Meenu',
+        d: 'Heena jain',
+        correct: 'd'
+    },
 
     {
         question: 'Ankit yadav loves',
